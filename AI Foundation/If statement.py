@@ -1,13 +1,13 @@
 
-age = int(input("Your age nigga : "))
+age = int(input("Your age : "))
 if age >= 18:
-    print("nigga you're old ")
+    print("You're old ")
 else:
     print("pedo")
 
-p = int(input("angka berapa aja "))
+p = int(input("Give me numbers "))
 if p > 1:
-    print("nigga")
+    print("nah")
 
 print("ok")
 # if statement is the most simple decision-making statement. 
@@ -16,9 +16,9 @@ print("ok")
 
 
 # If Else in One-line
-ok = int(input("masukkan angka kesukaan anda : "))
-biji = "hitam" if ok >= 5 else "lebih pekat hitamnya"
-print(biji)
+ok = int(input("input your fav number : "))
+balls = "black" if ok >= 5 else "darker than black"
+print(balls)
 
 #if else
 o = 1
