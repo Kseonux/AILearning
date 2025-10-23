@@ -66,7 +66,3 @@ while bacteria < 1000:
 
 
 
-
-
-
-
