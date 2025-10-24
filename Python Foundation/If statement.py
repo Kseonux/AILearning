@@ -11,8 +11,7 @@ if p > 1:
 
 print("ok")
 # if statement is the most simple decision-making statement. 
-# If the condition evaluates to True, 
-# the block of code inside the if statement is executed.
+# If the condition evaluates to True, the block of code inside the if statement is executed.
 
 
 # If Else in One-line
