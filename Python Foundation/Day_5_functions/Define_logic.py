@@ -8,7 +8,7 @@ greet(wow)                         # greet pertama pakai input awal
 print(10)                           # angka baru, tapi wow tetap aman
 greet(wow)    
 
-#Jadi kalo w itu kan hanya simpen wowo
+#Jadi kalo w itu kan hanya simpen wow
 
 #Logic 2
 
