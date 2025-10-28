@@ -1,4 +1,4 @@
-a =3
+a = 3
 print (str(a),"orang")
 
 a = 8
@@ -14,6 +14,7 @@ else:
 """
 a = 8
 b = (str(a))
+
 while b.isdigit():
     print (b)
 else:
@@ -24,7 +25,7 @@ else:
 a = True
 b = False
 c = 2.5 + 3  #PENTING!!! : (2.5 adalah float, 3 adalah int, python otomatis mengonversi 3 int menjadi float makanya 5.5 adalah float)
-d = float(c) #gada gunanya
+d = (c)
 print(d)
 print (True if isinstance(d, int) else "ok")
 print (True if isinstance(d, float) else "ok")
