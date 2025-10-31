@@ -23,9 +23,9 @@ print(balls)
 o = 1
 p = 10
 if o > 5 and p < 11:
-    print("Right")
+    print ("Right")
 else:
-    print  ("False")
+    print ("False")
 
 
 

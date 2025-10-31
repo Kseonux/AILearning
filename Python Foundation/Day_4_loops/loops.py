@@ -22,7 +22,10 @@ while bacteria < 1000:
 
 ##################################################################
 
+bacteria = 9
 
+while bacteria.is_integer():
+    print(f"hello {bacteria}")
 
 
 
