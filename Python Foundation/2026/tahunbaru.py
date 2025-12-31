@@ -1,0 +1,25 @@
+print ("new year tahun ini tahun aku jadi founder, next level. I'm ready, lock in. 00.26")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
